@@ -9,7 +9,6 @@ CREATE TABLE IF NOT EXISTS Books(
 );
 
 
-
 CREATE TABLE IF NOT EXISTS Customers(
     Customer_ID SERIAL PRIMARY KEY,
     Name VARCHAR(100),
